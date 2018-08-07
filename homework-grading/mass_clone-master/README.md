@@ -1,5 +1,5 @@
-# mass_clone
-This is a shell script that will clone multiple repositories for pulling Student assignments from GitHub Classroom for a given  assignment.  The script will create a folder based on the repository identifier (assignment name), and then creates a subdirectory for each Student who has accepted the assignment with a clone of their current assignment repository.
+# Mass Assignment Clone Scripts
+This is a collection of shell scripts that will clone multiple repositories for pulling Student assignments from GitHub Classroom for a given  assignment.  The script will create a folder based on the repository identifier (assignment name), and then creates a subdirectory for each Student who has accepted the assignment with a clone of their current assignment repository.
 
 These scripts should be used on on a Linux (based) system or from a Git shell on Windows, as it relies on popular Linux utilities including bash, curl and grep.
 
