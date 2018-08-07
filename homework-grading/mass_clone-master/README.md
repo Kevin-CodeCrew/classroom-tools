@@ -15,7 +15,7 @@ These scripts should be used on on a Linux (based) system or from a Git shell on
 
 # clone_assignments.sh
 
-This script is just for convenience, and actually runs clone_all.sh with three arguments as defaults, Organization, username, and protocol (https)
+This script is just for convenience, and actually runs ```clone_all.sh``` with three arguments as defaults, Organization, username, and protocol (https), so you don't have to type in every single time.
 
 The script takes one argument, the repository identifier (assignment repository prefix/assignment name). You can get this by clicking/viewing 'Assignment Settings' in GitHub.
 
@@ -23,7 +23,7 @@ The script takes one argument, the repository identifier (assignment repository 
 
 This script takes 4 arguments in order to clone repos based on organization (github classroom), a unique identifier(assignment), username, and protocol.
 
-This script will make a new folder based on the assignment repository prefix/assignment name), and then clones each to their own subfolder.
+This script will make a new folder based on the assignment repository prefix/assignment name, and then clones each to their own subfolder.
 
 # push_all.sh
 
