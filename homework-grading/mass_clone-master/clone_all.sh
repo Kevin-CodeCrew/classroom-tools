@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # github api reference
 # https://developer.github.com/v3/
