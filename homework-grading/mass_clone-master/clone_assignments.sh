@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Runs clone_all.sh with defaults, designed to be user editable
 
