@@ -17,8 +17,8 @@ else
 	assignment=$1
 
 	#edit these variables to your defaults
-	organization="CHANGE-TO-ORG-NAME-FOR CURRENT-SEMESTER"
-	username="CHANGE-TO-YOUR-GITHUB-USERNAME"
+	organization="cs-fullstack-2019-spring"
+	username="kevin-codecrew"
 	protocol="https"
 
 	./clone_all.sh ${organization} ${assignment} ${username} ${protocol}
