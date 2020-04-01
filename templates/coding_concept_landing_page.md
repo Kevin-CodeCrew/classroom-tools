@@ -5,7 +5,7 @@
 * ### [Concept Section 1](./coding_concept_section_page.md)
 * ### [Concept Section 2](./coding_concept_section_page.md)
 
-### [Assignments](./coding_concepts_assignments_page.md)
+### [Assignments](./coding_concept_assignments_page.md)
 
 ### General Resources 
 [Example App - Concept Documentation](https://reactjs.org/docs/rendering-elements.html)
